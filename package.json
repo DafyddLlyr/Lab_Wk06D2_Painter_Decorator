@@ -1,0 +1,14 @@
+{
+  "name": "painting_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "painting.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
